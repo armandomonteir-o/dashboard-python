@@ -13,7 +13,7 @@ Criar um Dashboard com a linguagem Python que será utilizado para analisar dado
 ## :rocket: Rodando o projeto
 Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
 ```
-<linha de comando>
+git clone (https://github.com/armandomonteir-o/dashboard-python.git)
 ```
 
 ## :soon: Implementação futura
